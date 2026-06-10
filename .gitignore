@@ -1,0 +1,40 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.pbxuser
+*.perspectivev3
+*.xcworkspace/
+DerivedData/
+build/
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+*.xcframework/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+Checkouts/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+*.log
+
+# App-specific
+APIKeys.swift
